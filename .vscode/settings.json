@@ -1,0 +1,12 @@
+{
+	"makefile.launchConfigurations": [
+		{
+			"cwd": "/home/cpp_tasks/task_3_1",
+			"binaryPath": "/home/cpp_tasks/task_3_1/main",
+			"binaryArgs": []
+		}
+	],
+	"files.associations": {
+		"iostream": "cpp"
+	}
+}
